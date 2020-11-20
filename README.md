@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://i.imgur.com/GtDgYdz.mp4), the famous meme song, in note blocks
   
+[![My github stats](https://github-readme-stats.vercel.app/api?username=BoogieMonster1O1)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
