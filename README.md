@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🌱 I'm currently learning Native programming in C++ and Swift. It's important to diversify. Jvm languages are cursed.
+- 💬 Ask me about Star Wars! I'm quite experienced in that subject.
+- 📫 How to reach me: Discord - BoogieMonster1O1#2458
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://imgur.com/a/xebBb6A), the famous meme song, in note blocks
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BoogieMonster1O1/BoogieMonster1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
