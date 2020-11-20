@@ -4,7 +4,7 @@
 - 💬 Ask me about Star Wars and Minecraft! I'm quite experienced in those.
 - 📫 How to reach me: Discord - BoogieMonster1O1#2458
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://imgur.com/a/xebBb6A), the famous meme song, in note blocks
+- ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://i.imgur.com/GtDgYdz.mp4), the famous meme song, in note blocks
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
