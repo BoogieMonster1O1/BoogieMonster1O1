@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I'm currently learning Native programming in C++ and Swift. It's important to diversify. Jvm languages are cursed.
-- 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced about those.
+- 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced in those.
 - 📫 How to reach me: Discord - BoogieMonster1O1#2458
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://i.imgur.com/GtDgYdz.mp4), the famous meme song, in note blocks
