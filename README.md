@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I'm currently learning music production and audio engineering. I use FL Studio
+- 🌱 I'm currently learning music production and audio engineering. I use Logic Pro
 - 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced in those.
 - 📫 How to reach me: Discord - BoogieMonster1O1#2458
 - 😄 Pronouns: he/him
