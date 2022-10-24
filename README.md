@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning music production and audio engineering. I use Logic Pro
 - 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced in those.
-- 📫 How to reach me: Discord - BoogieMonster1O1#2458
+- 📫 How to reach me: Discord - BoogieMonster1O1#7167
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://i.imgur.com/GtDgYdz.mp4), the famous meme song, in note blocks
   
