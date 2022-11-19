@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I'm currently learning music production and audio engineering. I use Logic Pro
+- 🌱 I'm currently learning macOS development in Swift and Objective-C
 - 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced in those.
 - 📫 How to reach me: Discord - BoogieMonster1O1#7167
 - 😄 Pronouns: he/him
