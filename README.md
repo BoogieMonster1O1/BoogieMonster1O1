@@ -6,10 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make note block music! Here's [Ieven polkka](https://i.imgur.com/GtDgYdz.mp4), the famous meme song, in note blocks
   
-[![My github stats](https://github-readme-stats.vercel.app/api?username=BoogieMonster1O1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats-meg4urz23-boogiemonster1o1.vercel.app/api?username=BoogieMonster1O1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-meg4urz23-boogiemonster1o1.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BoogieMonster1O1/BoogieMonster1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
