@@ -9,7 +9,7 @@
 [![My github stats](https://github-readme-stats-meg4urz23-boogiemonster1o1.vercel.app/api?username=BoogieMonster1O1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical&langs_count=10&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieMonster1O1&theme=radical&langs_count=10&layout=compact&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BoogieMonster1O1/BoogieMonster1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
