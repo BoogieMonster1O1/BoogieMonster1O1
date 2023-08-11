@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I'm currently learning Appkit and SwiftUI
+- 🌱 I'm currently learning low-level networking
 - 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced in those.
 - 📫 How to reach me: Discord - BoogieMonster1O1#7167
 - 😄 Pronouns: he/him
