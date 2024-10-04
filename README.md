@@ -4,7 +4,7 @@
 - 💬 Ask me anything about Star Wars and Minecraft! I'm quite experienced in those.
 - 📫 How to reach me: Discord - BoogieMonster1O1
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play the drums, keyboard and guitar. I also make note block music! Here's [Ieven polkka](https://i.imgur.com/GtDgYdz.mp4) in note blocks
+- ⚡ Fun fact: I like lathes
 - 👯 I evangelize Emacs, Swift, Libadwaita, Svelte and GraphQL
   
 [![My github stats](https://github-readme-stats-meg4urz23-boogiemonster1o1.vercel.app/api?username=BoogieMonster1O1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
